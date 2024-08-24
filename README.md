@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Software Development, ML, AI, CS/DS @ UW-Madison</h3>
 
-- 🔭 I’m currently working on [Dunklytics](https://github.com/adityaanandan/Dunklytics-App)
+- 🔭 I’m currently working on [BadgerBazaar](https://github.com/adityaanandan/BadgerBazaar-App)
 
 - 🌱 I’m currently learning **Golang, Springboot**
 
