@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">Software Development, ML, AI, CS/DS @ UW-Madison</h3>
+<h3 align="center">Software Development, ML, AI, SWE @ ServiceNow CS/DS @ UW-Madison</h3>
 
 - 🔭 I’m currently working on [Sadhakam](https://github.com/adityaanandan/sadhakam)
 
-- 🌱 I’m currently learning **Golang, Springboot**
+- 🌱 I’m currently learning **Golang, Lit.js, Springboot**
 
 - 👯 Collaborated on [AIBAT](https://github.com/landerson02/Adatest-App)
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Django,**
 
-- 📫 How to reach me **anandan2@wisc.edu**
+- 📫 How to reach me **anandan2@wisc.edu, adityasanandan@gmail.com**
 
 - 📄 Know about my experiences [https://www.adityaanandan.com/](https://www.adityaanandan.com/)
 
